@@ -6,8 +6,8 @@ Página web que muestra algunos proyectos que he realizado a lo largo de mi carr
 
 - HTML5
 - CSS3
-- JQUERY
-- JAVASCRIPT
+- Jquery
+- JavaScript
 - Bootstrap
 
 ------------
