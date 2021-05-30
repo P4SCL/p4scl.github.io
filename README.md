@@ -1,6 +1,6 @@
 # MI PORTAFOLIO
 
-Página web que muestra algunos proyectos que he realizado en el transcurso de la carrera
+Página web que muestra algunos proyectos que he realizado a lo largo de mi carrera profesional.
 
 ### Tecnologías
 
