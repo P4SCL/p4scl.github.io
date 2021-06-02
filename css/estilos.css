@@ -180,7 +180,7 @@ header .textos h3 {
 }
 
 #ubicacion{
-    background: rgba(17, 84, 51, 0.877);
+    background: rgba(21, 100, 60, 0.877);
 }
 i{
     font-size: 2.5em;    
@@ -229,10 +229,7 @@ i:hover{
 .arrow:active{
     color: #ffffff !important;
 }
-/* mediaqueries */
-#galeria img{
-    width: 40% !important;
-}
+
 @media screen and (max-width:800px){
     header .textos .nombre{
         font-size: 45px !important;
@@ -281,7 +278,7 @@ i:hover{
         width: 100%;
     }
     .main .galeria .foto{
-        width: 50%;
+        width: 70%;
     }
     .main .mapa {
         width: 80%;
@@ -293,9 +290,7 @@ i:hover{
         align-items: center !important;
         flex-direction: column !important;
     }
-    #galeria img{
-        width: 50% !important;
-    }
+
     #galeria h2{
         font-size: 2.5em !important;
     }
@@ -346,9 +341,6 @@ i:hover{
         justify-content: center !important;
         align-items: center !important;
         flex-direction: column !important;
-    }
-    #galeria img{
-        width: 60% !important;
     }
     #galeria h2{
         font-size: 2em !important;
